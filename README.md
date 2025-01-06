@@ -8,17 +8,19 @@ Imagine a company once leading the mobile phone industry but struggling to keep 
 
 ## Repository Structure
 
+```
 Nokia-Business-Intelligence-Case-Study/
 ├── README.md                 # Project overview and details
 ├── LICENSE                   # License information
 ├── CONTRIBUTING.md           # Contribution guidelines
 ├── docs/                     # Detailed reports and presentation files
-│   ├── Nokia_Case_Study.pdf # Group presentation on Nokia BI
+│   ├── Nokia_Case_Study.pdf  # Group presentation on Nokia BI
 │   ├── Individual_Report.docx # Detailed analysis report
 ├── assets/                   # Images and other media assets
 │   ├── Nokia_Logo.png         # Nokia logo
 │   ├── Framework_Visualization.png # Clear Idea framework visualization
 │   ├── ppt_slides_preview.png # Snapshot of presentation slides
+```
 
 ## Key Features
 
@@ -40,11 +42,8 @@ Nokia-Business-Intelligence-Case-Study/
 1. **Dive into Documentation:**
    - Check out the `docs/` folder for the group presentation and in-depth report.
 
-2. **Explore Data Analysis:**
-   - Visit the `src/` folder for analysis scripts and visual outputs.
-
-3. **Visual Feast:**
-   - Browse `assets/` for compelling visuals and framework diagrams.
+2. **Explore Visuals:**
+   - Visit the `assets/` folder for images, frameworks, and presentation snapshots.
 
 ## Technologies in Action
 
