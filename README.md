@@ -83,7 +83,9 @@ Have ideas or insights? Contributions are welcome! Check out the `CONTRIBUTING.m
 
 ## License
 
-This project is licensed under the MIT License. Check the `LICENSE` file for more details.
+This project is created under the academic purview of **Northumbria University** and is intended solely for educational purposes. Any reproduction, distribution, or use of this project beyond its academic context requires explicit permission from Northumbria University.
+
+For more details, please contact the project maintainers or Northumbria University directly.
 
 ## Let’s Connect
 
