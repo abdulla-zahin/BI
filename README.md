@@ -40,7 +40,7 @@ Nokia-Business-Intelligence-Case-Study/
 ## How to Use This Repository
 
 1. **Dive into Documentation:**
-   - Check out the `docs/` folder for the group presentation and in-depth report.
+   - Check out the Main Document folder for the group presentation and in-depth report.
 
 2. **Explore Visuals:**
    - Visit the `assets/` folder for images, frameworks, and presentation snapshots.
