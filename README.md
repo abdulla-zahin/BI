@@ -66,6 +66,23 @@ Here’s the game plan:
 - Build a culture that celebrates data-driven decision-making.
 - Embrace Tableau for real-time, interactive data exploration.
 
+## 🔗 Links
+- [2017 Financial Table](https://github.com/abdulla-zahin/BI/blob/main/2017q2_tables.xlsx)
+- [2018 Financial Table](https://github.com/abdulla-zahin/BI/blob/main/2018q4_tables.xlsx)
+- [2019 Financial Table](https://github.com/abdulla-zahin/BI/blob/main/nokia_tables_2020_q4.xlsx)
+- [2020 Financial Table](https://github.com/abdulla-zahin/BI/blob/main/nokia_tables_2022_q3.xlsx)
+- [2022 Financial Table](https://github.com/abdulla-zahin/BI/blob/main/nokia_tables_2022_q3.xlsx)
+- [2023 Financial Table](https://github.com/abdulla-zahin/BI/blob/main/nokia_tables_2023_q3.xlsx)
+- [Attributed Data](https://github.com/abdulla-zahin/BI/blob/main/Attributes%20Data%20(1).xlsx)
+- [Contributed Data](https://github.com/abdulla-zahin/BI/blob/main/CONTRIBUTING.md)
+- [Notes](https://github.com/abdulla-zahin/BI/blob/main/Main%20Document)
+- [image logo](https://github.com/abdulla-zahin/BI/blob/main/Nokia)
+- [Distrubted Analysis](https://github.com/abdulla-zahin/BI/blob/main/PDF%20-%20Distribution%20Analysis.pdf)
+- [One way Frequencies](https://github.com/abdulla-zahin/BI/blob/main/PDF%20-%20One-Way%20Frequencies%201.pdf)
+- [SAS Report](https://github.com/abdulla-zahin/BI/blob/main/SAS%20Report%20-%20Characterize%20Data.pdf)
+- [Comparison of Brands](https://github.com/abdulla-zahin/BI/blob/main/U6AO5_Data.xlsx)
+- [V.I.S.A Analysis](https://github.com/abdulla-zahin/BI/blob/main/V.I.S.A.jpg)
+
 ## Get Involved
 
 Have ideas or insights? Contributions are welcome! Check out the `CONTRIBUTING.md` file to see how you can help make this project even better.
